@@ -1,0 +1,8 @@
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 2.0\A2MistryR\A2MistryR\bin\Debug\A2MistryR.exe.config
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 2.0\A2MistryR\A2MistryR\bin\Debug\A2MistryR.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 2.0\A2MistryR\A2MistryR\bin\Debug\A2MistryR.pdb
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 2.0\A2MistryR\A2MistryR\obj\Debug\A2MistryR.csproj.AssemblyReference.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 2.0\A2MistryR\A2MistryR\obj\Debug\A2MistryR.csproj.SuggestedBindingRedirects.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 2.0\A2MistryR\A2MistryR\obj\Debug\A2MistryR.csproj.CoreCompileInputs.cache
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 2.0\A2MistryR\A2MistryR\obj\Debug\A2MistryR.exe
+C:\Users\mistr\Desktop\Rutvi Conestoga\SEM 1\Programming conecepts 1\Assignment\Assignment 2.0\A2MistryR\A2MistryR\obj\Debug\A2MistryR.pdb
