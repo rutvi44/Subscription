@@ -1,8 +1,3 @@
-﻿/*Title: Rutvi Mistry Assignment2
- * Name of Project: Monthly subscription charges
- * Purpose: To calculate monthly subscription based on age, month of starting, refferanl and applicable taxes.
- * Revision History: Rutvi Mistry, 2023.02.18, Created
-*/
 
 using System;
 using System.Collections.Generic;
